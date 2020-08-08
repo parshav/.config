@@ -1,0 +1,15 @@
+alias cat=batcat
+alias top=ytop
+alias ls=exa
+
+alias la='ls -al'
+alias l='ls -1'
+
+alias open=xdg-open
+alias pbcopy='xclip -selection clipboard'
+alias pbpaste='xclip -selection clipboard -o'
+
+alias cb='cargo build'
+alias cr='cargo run'
+
+export PATH=$PATH:/home/pv/Tools
